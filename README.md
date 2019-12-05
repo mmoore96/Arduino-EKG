@@ -36,15 +36,15 @@ Implementing additional ECG algorithms for interpretation
 Faster plotting speed in MATLAB
 
 ## Total Cost
-AD8232 EKG Module = $20.00
-Arduino Uno = $22.00
-Three lead electrodes (3.5 mm jack) = $5.00
-Electrode sensor pads (Pack of 100) = $14.00
-Wiring, breadboard, and headers = ~$11.00
-Arduino IDE  = FREE
-Processing IDE = FREE
-MATLAB Software = $100.00
-Total: ~$172.00 (excluding cost of a computer)
+* AD8232 EKG Module = $20.00
+* Arduino Uno = $22.00
+* Three lead electrodes (3.5 mm jack) = $5.00
+* Electrode sensor pads (Pack of 100) = $14.00
+* Wiring, breadboard, and headers = ~$11.00
+* Arduino IDE  = FREE
+* Processing IDE = FREE
+* MATLAB Software = $100.00
+* Total: ~$172.00 (excluding cost of a computer)
 
 
 
