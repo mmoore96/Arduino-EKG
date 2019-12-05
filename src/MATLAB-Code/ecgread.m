@@ -5,7 +5,8 @@ close all
 clear all
 resetit = 0;
 cla reset;
-s = serial('/dev/cu.usbserial-1420','BaudRate',9600);
+%Remember to change this
+s = serial('CHANGE THIS TO YOUR SERIAL PORT','BaudRate',9600);
 fopen(s);
 fprintf(s,'*IDN?');
 i = 1;
